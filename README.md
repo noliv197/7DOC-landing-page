@@ -27,7 +27,8 @@ The main focus of the exercises is to know how to:
 ### Exercises
 
 #### Fictional Company Replica
-<img src="http://img.shields.io/static/v1?label=STATUS&message=Finished&color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=Development&message=Finished&color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=CODE%20REVIEW&message=Not%20Started&color=red&style=for-the-badge"/>
 
 - Template:
 
@@ -45,7 +46,8 @@ The main focus of the exercises is to know how to:
 
 
 #### Linkedln Replica
-<img src="http://img.shields.io/static/v1?label=STATUS&message=Finished&color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=Development&message=Finished&color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=CODE%20REVIEW&message=Not%20Started&color=red&style=for-the-badge"/>
 
 - Template:
 
@@ -62,7 +64,8 @@ The main focus of the exercises is to know how to:
     :small_blue_diamond: CSS
   
 #### Responsiveness
-<img src="http://img.shields.io/static/v1?label=STATUS&message=Finished&color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=Development&message=Finished&color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=CODE%20REVIEW&message=Not%20Started&color=red&style=for-the-badge"/>
 
 - Template:
 
@@ -81,7 +84,7 @@ The main focus of the exercises is to know how to:
 
   
 #### Netflix Replica
-<img src="http://img.shields.io/static/v1?label=STATUS&message=Not%20Started&color=red&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=Development&message=Not%20Started&color=red&style=for-the-badge"/>
 
 - Template:
 
