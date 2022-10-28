@@ -35,7 +35,7 @@ The main focus of the exercises is to know how to:
 
 - Observations:
   - Since the mobile layout was not provided, I did the responsiveness based on what I thought was appropriate
-  - Lastest Version [here]()
+  - Lastest Version [here](http://fictional-company.vercel.app)
 
 - Build With:
 
