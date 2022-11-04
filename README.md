@@ -30,12 +30,22 @@ The main focus of the exercises is to know how to:
 <img src="http://img.shields.io/static/v1?label=Development&message=Finished&color=GREEN&style=for-the-badge"/>
 <img src="http://img.shields.io/static/v1?label=CODE%20REVIEW&message=Not%20Started&color=red&style=for-the-badge"/>
 
+- Activities
+  - Day 1: Create and style navbar
+  - Day 2: Create and style header 
+  - Day 3: Create and style the metrics and results section
+  - Day 4: Create and style the highlight section
+  - Day 5: Create and style job vacancies section
+  - Day 6: Create and style testimonial section
+  - Day 7: Create and style footer
+
 - Template:
 
   <img src="https://imagizer.imageshack.com/img924/4200/2wPC0r.gif">
 
 - Observations:
   - Since the mobile layout was not provided, I did the responsiveness based on what I thought was appropriate
+  - More about the challenge [here](https://7daysofcode.io/matricula/html-css)
   - Lastest Version [here](http://fictional-company.vercel.app)
 
 - Build With:
@@ -49,12 +59,22 @@ The main focus of the exercises is to know how to:
 <img src="http://img.shields.io/static/v1?label=Development&message=Finished&color=GREEN&style=for-the-badge"/>
 <img src="http://img.shields.io/static/v1?label=CODE%20REVIEW&message=Not%20Started&color=red&style=for-the-badge"/>
 
+- Activities
+  - Day 1: Create and style main profile information section
+  - Day 2: Create and style navbar
+  - Day 3: Create and style highlights section
+  - Day 4: Create and style recent activity and about sections
+  - Day 5: Create and style experiences section
+  - Day 6: Create and style education and languages sections
+  - Day 7: Create and style sugestions sections
+  
 - Template:
 
   <img src="" alt="gif do template do linkedin">
 
 - Observations:
   - Since the mobile layout was not provided, I did the responsiveness based on the current mobile linkedin layout 
+  - More about the challenge [here](https://7daysofcode.io/matricula/html-css-linkedin)
   - Lastest Version [here](https://linkedin-replica.vercel.app)
 
 - Build With
@@ -67,6 +87,15 @@ The main focus of the exercises is to know how to:
 <img src="http://img.shields.io/static/v1?label=Development&message=Finished&color=GREEN&style=for-the-badge"/>
 <img src="http://img.shields.io/static/v1?label=CODE%20REVIEW&message=Not%20Started&color=red&style=for-the-badge"/>
 
+- Activities
+  - Day 1: Create and style header and appointments sections
+  - Day 2: Create and style footer and floating button
+  - Day 3: Use relative units to style the font and adjust cards width
+  - Day 4: Create media query to adjust the layout for tablets and desktop
+  - Day 5: Modify the footer to be a side menu on larger layouts
+  - Day 6: On larger layouts, change the floating button to a form
+  - Day 7: Publish the page
+  
 - Template:
 
   <img src="https://imagizer.imageshack.com/img923/1466/KF1lX6.gif">
@@ -74,6 +103,7 @@ The main focus of the exercises is to know how to:
 - Observations:
   - The focus of the exercise was using CSS, therefore I preferred to make the side menu with css instead of javascript. 
     - I used this [blog](http://lucasmaiaesilva.com.br/posts/criando-modal-simples-com-html-e-css/) for reference to create the modal menu
+  - More about the challenge [here](https://7daysofcode.io/matricula/responsividade)
   - Lastest Version [here](https://responsiveness-ten.vercel.app/)
 
 - Build With
