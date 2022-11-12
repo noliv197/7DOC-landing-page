@@ -114,13 +114,30 @@ The main focus of the exercises is to know how to:
 
   
 #### Netflix Replica
-<img src="http://img.shields.io/static/v1?label=Development&message=Not%20Started&color=red&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=Development&message=Started&color=blue&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=CODE%20REVIEW&message=Not%20Started&color=red&style=for-the-badge"/>
+
+- Activities
+  - Day 1: Create banner section
+  - Day 2: 
+  - Day 3: 
+  - Day 4: 
+  - Day 5: 
+  - Day 6: 
+  - Day 7: 
 
 - Template:
 
-  <img src="" width=750>
+  <img src="https://imagizer.imageshack.com/img923/5457/ALf1tX.png" width=750>
 
 - Observations:
-  - None
+  - More about the challenge [here](https://7daysofcode.io/matricula/html-css-netflix)
+  - Lastest Version [here](https://responsiveness-ten.vercel.app/)
+
+- Build With
+
+    :small_blue_diamond: HTML
+
+    :small_blue_diamond: Bootstrap
   
   
