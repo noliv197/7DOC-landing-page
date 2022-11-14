@@ -119,8 +119,8 @@ The main focus of the exercises is to know how to:
 
 - Activities
   - Day 1: Create banner section
-  - Day 2: Create nav bar section
-  - Day 3: 
+  - Day 2: Create navbar section
+  - Day 3: Create categories section
   - Day 4: 
   - Day 5: 
   - Day 6: 
