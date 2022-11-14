@@ -5,6 +5,7 @@ html{
 body{
     font-family:  'Helvetica', sans-serif;
     height: 100%;
+	color: #FFF!important;
 }
 header {
 	background: url(https://imagizer.imageshack.com/img923/9705/spEojS.png) no-repeat;
@@ -17,6 +18,9 @@ button{
 }
 i{
     padding-right: .5rem;
+}
+.dropdown-menu{
+	right: 0;
 }
 .logo-filme{
     width: 400px;

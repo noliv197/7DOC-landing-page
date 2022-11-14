@@ -119,7 +119,7 @@ The main focus of the exercises is to know how to:
 
 - Activities
   - Day 1: Create banner section
-  - Day 2: 
+  - Day 2: Create nav bar section
   - Day 3: 
   - Day 4: 
   - Day 5: 
@@ -137,6 +137,8 @@ The main focus of the exercises is to know how to:
 - Build With
 
     :small_blue_diamond: HTML
+
+    :small_blue_diamond: CSS
 
     :small_blue_diamond: Bootstrap
   
