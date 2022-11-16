@@ -121,8 +121,8 @@ The main focus of the exercises is to know how to:
   - Day 1: Create banner section
   - Day 2: Create navbar section
   - Day 3: Create categories section
-  - Day 4: 
-  - Day 5: 
+  - Day 4: Hover Animation
+  - Day 5: Slide effect
   - Day 6: 
   - Day 7: 
 
