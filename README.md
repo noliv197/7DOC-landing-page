@@ -123,8 +123,8 @@ The main focus of the exercises is to know how to:
   - Day 3: Create categories section
   - Day 4: Hover Animation
   - Day 5: Slide effect
-  - Day 6: 
-  - Day 7: 
+  - Day 6: Create footer section
+  - Day 7: Publish project
 
 - Template:
 
