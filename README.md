@@ -131,8 +131,9 @@ The main focus of the exercises is to know how to:
   <img src="https://imagizer.imageshack.com/img923/5457/ALf1tX.png" width=750>
 
 - Observations:
+  - I decided to build the project with Bootstrap to practice the use of this  framework
   - More about the challenge [here](https://7daysofcode.io/matricula/html-css-netflix)
-  - Lastest Version [here](https://responsiveness-ten.vercel.app/)
+  - Lastest Version [here](netflix-replica-hazel.vercel.app)
 
 - Build With
 
