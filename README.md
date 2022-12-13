@@ -4,7 +4,7 @@
 | -------------  | --- |
 | :sparkles: Name        | **Fictional Company**
 | :label: Build with | html, css
-| :rocket: URL         | https://fictional-company.vercel.app
+| :rocket: URL         | https://noliv197.github.io/7DOC-fictional-company/
 | :fire: Challenge     | https://7daysofcode.io/matricula/html-css
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
