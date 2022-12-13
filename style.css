@@ -1,0 +1,220 @@
+:root{
+    --branco:#FFFFFF;
+    --cinza:#667085;
+    --cinza-claro: #F9FAFB;
+    --cinza-borda: #EAECF0;
+    --vermelho:#8E2424;
+    --vermelho-claro:#C3191908;
+    --preto: #101828;
+
+    --fonte: "Inter", sans-serif;
+}
+
+body{
+    background-color: var(--branco);
+    color: var(--preto);
+    font-family: var(--fonte);
+    font-weight: 500;
+}
+footer{
+    background-color: var(--cinza-claro);
+}
+
+/* Botoes */
+.botao--padrao{
+    color: var(--branco);
+    background-color: var(--vermelho);
+    border: 1px solid var(--vermelho);
+    border-radius: 8px;
+    font-size: 16px;
+    text-decoration: none;
+    padding: 10px 18px;
+}
+.botao--padrao:hover{
+    border: 2px solid var(--preto);
+    cursor: pointer;
+}
+/* Input */
+.input__email{
+    width: 360px;
+    height: 38px;
+    border-radius: 8px;
+    border: 1px solid var(--cinza-borda);
+    margin-right: 1rem;
+    padding-left: 1rem;
+}
+.input__email::placeholder{
+    font-family: var(--fonte);
+    font-weight: 400;
+    font-size: 16px;
+    color: var(--cinza);
+}
+/* Imagens */
+.imagem__banner{
+    margin: 3rem 0;
+    width: 100%;
+}
+.imagem__perfil{
+    max-width: 56px;
+}
+/* Containers */
+.container__cabecalho,
+.container__lista{
+    display: flex;
+    justify-content: space-between;
+}
+.container__cabecalho{
+    margin: 2rem 5rem;
+}
+.container__menu{
+    margin: auto 20rem auto 0;
+    display: flex;
+    justify-content: space-between;
+}
+.container__login{
+    margin: auto 0;
+}
+.container__sobreNos,.container__procurasse{
+    text-align: center;
+    margin: 0 5rem;
+}
+.container__metricas{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 5rem 5rem;
+}
+.container__card--metricas{
+    width: 280px;
+    margin-bottom: 1.5rem;
+}
+.container__vagas{
+    margin: auto 5rem;
+    padding: 0 15rem;
+}
+.container__card{
+    display: grid;
+    margin-bottom: 1rem;
+    border-radius: 16px;
+    border: 1px solid var(--cinza-borda);
+    grid-template-columns: 1fr 2fr 2fr;
+    grid-template-rows: repeat(2,1fr);
+    grid-template-areas: 
+    "titulo titulo espaço"
+    "cargaHoraria salario espaço";
+}
+.container__depoimentos{
+    background-color: var(--vermelho-claro);
+    text-align: center;
+    margin: 2.5rem 5rem;
+    padding: 3rem 2rem;
+}
+.container__perfil{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.container__oportunidades{
+    text-align: center;
+    padding: 3rem 0;
+    margin: 0 5rem;
+}
+.container__input{
+    margin: 2rem 0;
+}
+
+/* Textos */
+.texto--link{
+    color: var(--cinza);
+    font-size: 16px;
+    text-decoration: none;
+    margin: 0 1em;
+}
+.texto--secao{
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--vermelho);
+    margin-top: 5rem;
+}
+.texto--titulo{
+    font-size: 48px;
+    font-weight: 600;
+    margin: 2rem 0;
+}
+.texto--principal{
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--cinza);
+    max-width: 900px;
+    line-height: 30px;
+    margin: auto;
+}
+.texto--destaque{
+    font-size: 60px;
+    font-weight: 600;
+    color: var(--vermelho);
+}
+.texto--subtitulo{
+    font-size: 18px;
+    margin: 1em 0;
+}
+.texto--descricao{
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--cinza);
+}
+.texto--sombra{
+    background-color: var(--vermelho-claro);
+    border-radius: 16px;
+    width: 125px;
+    margin: auto;
+    padding: .5rem 1rem;
+}
+.texto__secao--titulo{
+    font-size: 20px;
+    text-align: left;
+    margin: 2rem 0;
+}
+.texto__card--subtitulo{
+    font-size: 18px;
+    padding: 1rem;
+    grid-area: titulo;
+    grid-column: span 2;
+}
+.texto__card--descricao{
+    font-size: 16px;
+    padding: 1rem;
+    color: var(--cinza);
+}
+.texto--cargaHoraria{
+    grid-area: cargaHoraria;
+}
+.texto--salario{
+    grid-area: salario;
+}
+.texto__depoimentos--secao{
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--vermelho);
+    margin-top: 2rem;
+}
+.texto__depoimentos--titulo{
+    font-size: 36px;
+    margin: 2rem 0;
+}
+.texto--nome{
+    font-size: 16px;
+    margin: .5rem;
+}
+.texto--profissao{
+    font-weight: 400;
+    font-size: 14px;
+    color: var(--cinza);
+}
+.texto--copyright{
+    font-weight: 400;
+    font-size: 16px;
+    color: var(--cinza);
+}
+
