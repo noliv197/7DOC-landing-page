@@ -4,7 +4,7 @@
 | -------------  | --- |
 | :sparkles: Name        | **Landing Page**
 | :label: Build with | html, css
-| :rocket: URL         | https://noliv197.github.io/7DOC-fictional-company/
+| :rocket: URL         | https://noliv197.github.io/7DOC-landing-page/
 | :fire: Challenge     | https://7daysofcode.io/matricula/html-css
 
 
