@@ -9,13 +9,11 @@ header img{
     height: 80px;
     width: 148px;
 }
-
 nav a{
     color: var(--colorPrimary);
     margin: 0 1em;
 }
 nav .navbar-login{
-    flex-grow: 1;
     text-align: end;
 }
 
@@ -37,9 +35,14 @@ nav .navbar-login{
         align-items: center;
     }
     nav a{
-        font-size: var(--size-xm);
+        font-size: var(--size-md);
     }
     .navbar-pages a{
         margin: 1rem 0;
+    }
+    .navbar-login{
+        width: 90%;
+        margin: 0 auto;
+        text-align: center;
     }
 }
