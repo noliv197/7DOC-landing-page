@@ -7,13 +7,13 @@
 | :rocket: URL         | https://noliv197.github.io/7DOC-fictional-company/
 | :fire: Challenge     | https://7daysofcode.io/matricula/html-css
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
+
 ![](https://imagizer.imageshack.com/img924/4200/2wPC0r.gif#vitrinedev)
 
 ## About The Project
 
 <img src="http://img.shields.io/static/v1?label=Development&message=Finished&color=GREEN&style=for-the-badge"/>
-<img src="http://img.shields.io/static/v1?label=CODE%20REVIEW&message=Not%20Started&color=red&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=CODE%20REVIEW&message=On%20Going&color=blue&style=for-the-badge"/>
 
 * 7 Days Of Code Challenge
   * The challenge proposes to follow simple guidelines given over the course of 7 days to create a Front-End App. 

@@ -1,36 +1,16 @@
 @media screen and (max-width: 1220px) {
-    .container__menu{
-        margin-right: 5rem;
-    }
     .container__vagas{
         padding: 0 8.5rem;
     }
 
 }
 @media screen and (max-width: 975px){
-    .container__menu{
-        margin-right: 0;
-    }
     .container__vagas{
         padding: 0 5rem;
     }
 
 }
 @media screen and (max-width: 894px) {
-    .container__logo{
-        order:1;
-    }
-    .container__menu{
-        order: 3;
-        flex-grow: 1;
-        margin-top: 2em;
-    }
-    .container__login{
-        order: 2;
-    }
-    .container__cabecalho{
-        flex-wrap: wrap;
-    }
     .container__vagas{
         padding: 0;
     }
@@ -59,9 +39,6 @@
     }
 }
 @media screen and (max-width: 555px){
-    .container__cabecalho{
-        margin: 2rem 1.5rem;
-    }
     .container__sobreNos,
     .container__procurasse,
     .container__vagas,

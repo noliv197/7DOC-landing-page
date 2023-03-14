@@ -1,0 +1,58 @@
+@import url("./reset.css");
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+@import url("./header.css");
+@import url("./footer.css");
+@import url("./button.css");
+@import url("./highlight.css");
+@import url("./metrics.css");
+@import url("./jobs.css");
+@import url("./testimony.css");
+
+:root{
+    --backgroundPrimary: #FFFFFF;
+    --backgroundSecondary: #C3191908;
+    --backgroundLight: #F9FAFB;
+    --backgroundDark: #8E2424;
+
+    --colorPrimary: #667085;
+    --colorSecondary: #8E2424;
+    --colorDark: #101828;
+    --colorLight: #FFFFFF;
+
+    --borderLight: #EAECF0;
+    --borderDark: #101828;
+    --borderRadius: 8px;
+
+    --fontFamily: "Inter", sans-serif;
+
+    --weightExtraBold: 600;
+    --weightBold: 500;
+    --weightNormal: 400;
+
+    --size-xx: 3.75em; /*60px*/
+    --size-xg: 3em;  /*48px*/
+    --size-lg: 2.25em; /*36px*/
+    --size-xm: 1.25em; /*20px*/
+    --size-md: 1.125em; /*18px*/
+    --size-rg: 1em; /*16px*/
+    --size-sm: 0.875em; /*14px*/
+}
+
+html{
+    font-size: 16px;
+}
+body{
+    box-sizing: border-box;
+    background-color: var(--backgroundPrimary);
+    color: var(--colorPrimary);
+    font-family: var(--fontFamily);
+    font-weight: var(--weightBold);
+    font-size: var(--size-rg);
+    min-height: 100vh;
+}
+
+@media screen and (max-width: 768px){
+    html{
+        font-size: 18px;
+    }
+}

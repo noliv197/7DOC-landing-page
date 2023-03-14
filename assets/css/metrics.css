@@ -1,0 +1,26 @@
+.metrics-list{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 5rem 5rem;
+}
+
+.metrics-card{
+    margin-bottom: 1.5rem;
+    width: 280px;
+}
+
+.metrics-card h2{
+    color: var(--colorSecondary);
+    font-size: var(--size-xx);
+    font-weight: var(--weightExtraBold);
+}
+.metrics-card h3{
+    color: var(--colorDark);
+    font-size: var(--size-md);
+    margin: 1em 0;
+}
+.metrics-card p{
+    font-weight: var(--weightNormal);
+}

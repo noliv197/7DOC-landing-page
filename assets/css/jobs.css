@@ -1,0 +1,37 @@
+#jobs{
+    margin: auto 5rem;
+    padding: 0 15rem;
+}
+.section-jobs h2{
+    font-size: var(--size-xm);
+    text-align: left;
+    margin: 2rem 0;
+    color: var(--colorDark);
+}
+.jobs-card{
+    display: grid;
+    margin-bottom: 1rem;
+    border-radius: 16px;
+    border: 1px solid var(--borderLight);
+    grid-template-columns: 1fr 2fr 2fr;
+    grid-template-rows: repeat(2,1fr);
+    grid-template-areas: 
+    "title title space"
+    "time salary space";
+}
+
+.jobs-card h4{
+    font-size: var(--size-md);
+    padding: 1rem;
+    color: var(--colorDark);
+    grid-area: title;
+    grid-column: span 2;
+}
+.jobs-card span{
+    padding: 1rem;
+    grid-area: time;
+}
+
+.jobs-card span:last-child{
+    grid-area: salary;
+}

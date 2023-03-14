@@ -1,0 +1,39 @@
+footer{
+    background-color: var(--backgroundLight);
+    padding: 3rem 0;
+    text-align: center;
+}
+
+#oportunities h2{
+    color: var(--colorDark);
+    font-weight: var(--weightExtraBold);
+    font-size: var(--size-xg);
+    margin: 2rem 0;
+}
+#oportunities span{
+    font-size: var(--size-xm);
+    font-weight: var(--weightNormal);
+    line-height: 30px;
+}
+#oportunities form{
+    padding: 3rem 0;
+    margin: 0 5rem;
+}
+input{
+    border-radius: var(--borderRadius);
+    border: 1px solid var(--borderLight);
+    box-sizing: border-box;
+    margin-right: 1rem;
+    padding: 0 1rem;
+    width: 360px;
+    height: 38px;
+}
+input::placeholder{
+    color: var(--colorPrimary);
+    font-family: var(--fontFamily);
+    font-weight: var(--weightNormal);
+}
+footer .copyright{
+    font-weight: var(--weightNormal);
+}
+
