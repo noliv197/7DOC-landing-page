@@ -1,0 +1,40 @@
+.text-section{
+    color: var(--colorSecondary);
+    font-weight: var(--weightExtraBold);
+}
+.text-title{
+    color: var(--colorDark);
+    font-weight: var(--weightExtraBold);
+    font-size: var(--size-xg);
+    margin: 2rem 0;
+}
+.text-description{
+    font-weight: var(--weightNormal);
+    font-size: var(--size-xm);
+    line-height: 30px;
+}
+
+@media screen and (max-width: 768px){
+    .text-section{
+        font-size: var(--size-md);
+    }
+    .text-title{
+        font-size: var(--size-lg);
+        line-height: 50px;
+    }
+    .text-description{
+        font-size: var(--size-rg);
+    }
+}
+@media screen and (max-width: 360px){
+    .text-section{
+        font-size: var(--size-md);
+    }
+    .text-title{
+        font-size: var(--size-md);
+        line-height: 30px;
+    }
+    .text-description{
+        font-size: var(--size-sm);
+    }
+}
