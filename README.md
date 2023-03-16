@@ -31,5 +31,8 @@
   - Day 7: Create and style footer
 
 - Observations:
+  - Lighthouse page report
+  <img width=570 src="https://i.imgur.com/FmT8l5I.png" alt="performance 94, Accessibility 100, Best Practices 100, SEO 100">
+  
   - Since the mobile layout was not provided, I did the responsiveness based on what I thought was appropriate
 <img src="https://i.imgur.com/oOdcFFN.gif" alt="responsive layout">
