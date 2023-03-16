@@ -2,7 +2,7 @@
     margin: 0 auto 0 auto;
     width: 80%;
 }
-.section-jobs h2{
+.section-jobs h3{
     font-size: var(--size-xm);
     text-align: left;
     margin-bottom: 2rem;

@@ -11,7 +11,7 @@
     flex-direction: column;
     align-items: center;
 }
-#testimony figure.profile {
+#testimony figure img {
     width: 56px;
     height: 56px;
 }
